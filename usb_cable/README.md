@@ -4,17 +4,20 @@ USBケーブル
 
 ケーブル
 https://www.ebay.com/itm/3-10ft-Micro-USB-Charger-Charging-Sync-Data-Cable-For-Android-Phone-Samsung/202195429250?ssPageName=STRK%3AMEBIDX%3AIT&var=502168896337&_trksid=p2060353.m2749.l2649
+
 3m/10ft * 2
 
 
 パラコード
 https://www.amazon.co.jp/gp/product/B07JCL51B9/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1
 Wakind 耐荷重250kg パラコード 7本撚り ナイロンパラシュートコード タイプIII 4mm テント ロープ ガイロープ ミルスペック アウトドア キャンプ サバイバル固定用 (15.5mx2本）
+
 ブラック
 
 
 スリーブ
 https://www.ebay.com/itm/11-Colours-3mm-40mm-Braided-Cable-Sleeving-Auto-Wire-Harnessing-Sheathing-PET/162922576763?ssPageName=STRK%3AMEBIDX%3AIT&var=461988605271&_trksid=p2060353.m2749.l2649
+
 Length: 5M
 Colours: Black
 Size: 4mm
