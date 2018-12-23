@@ -50,3 +50,31 @@ https://www.ebay.com/itm/5Pcs-Micro-USB-4-Pin-Type-A-Male-3-Piece-NO-Solder-Conn
 https://www.amazon.co.jp/gp/product/B0798BCP3L/ref=oh_aui_search_detailpage?ie=UTF8&psc=1
 
 
+
+
+
+コイルケーブルとする。
+
+実験では35センチのケーブルがコイル状に巻くと6センチほどになったので
+長さが7分の1になる想定で長さを決める。
+
+
+USB端子のピンアサイン
+A mini/micro  割当  ケーブル色
+1 1 VCC 赤
+2 2 D-  白
+3 3 D+  緑
+  4 ID  (なし)
+4 5 Gnd 黒
+
+
+Z巻き？S巻き？
+ネットを見てると、S巻き多いらしい。
+→
+Z巻で作る。
+理由は下記：
+・ケーブルは机の上で右上から左下にかけて配置するのでZ巻きだとケーブルが浮かない。
+※ただしメジャーなのはS巻っぽい。(google検索より)
+
+
+｀ｂ
